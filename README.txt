@@ -1,1 +1,1 @@
-# retailFoodStoreCountyAnalysis
+This repository contains a Jupyter Notebook showcasing the extraction and manipulation of data sets from a MySQL database using SQL queries and Python (Pandas), Two Sample T-Test Calculations and Analysis, and actionable insights for targeted users.
