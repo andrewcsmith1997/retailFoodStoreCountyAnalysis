@@ -1,0 +1,78 @@
+Deficiency #,General Description,Critical Deficiency,Group #,Group Category
+01A,*01A - Unpasteurized milk/milk products used,1,1,Food Received From Unapproved Sources
+01B,*01B - Water or ice is not potable,1,1,Food Received From Unapproved Sources
+01C,01C - Foods or ingredients from unapproved source,0,1,Food Received From Unapproved Sources
+01D,"01D - Meat, poultry, or game products are not officially inspected plants",0,1,Food Received From Unapproved Sources
+01E,*01E - Shellfish from unapproved source,1,1,Food Received From Unapproved Sources
+01F,"01F - Liquid eggs, frozen eggs, or dried milk products are not from U.S.D.A. inspected plants",0,1,Food Received From Unapproved Sources
+02A,02A - Rodent defiled foods or ingredients,0,2,Food Products or Ingredients Adulterated or Unfit
+02B,02B - Insect infested foods or ingredients,0,2,Food Products or Ingredients Adulterated or Unfit
+02C,02C - Food products contain unidentified sulfiting agents or other unapproved additives,0,2,Food Products or Ingredients Adulterated or Unfit
+02D,*02D - Other adulterated/unfit foods or ingredients,1,2,Food Products or Ingredients Adulterated or Unfit
+03A,*03A - Food handlers handle food when ill with a disease transmissible by food,1,3,Food Not Protected From Contamination By Workers
+03B,*03B - Food handlers have infected cuts or burns on their hands,1,3,Food Not Protected From Contamination By Workers
+03C,*03C - Food handlers do not wash hands thoroughly after contaminating them,1,3,Food Not Protected From Contamination By Workers
+03D,03D - Employee handwashing facilities inadequte for establishments handling exposed foods,0,3,Food Not Protected From Contamination By Workers
+03E,"*03E - Employees handling exposed, ready-to-eat foods without an acceptable protective barrier",1,3,Food Not Protected From Contamination By Workers
+04A,"*04A - Food contact equipment, utensils, or conveyances for potentially hazardous foods: contact surfaces unclean or not properly sanitized and likely to contribute to contamination",1,4,Food Not Protected From Contamination By Other Sources
+04B,"*04B - Food contact equipment, utensils, or conveyances are not cleaned or sanitized between use on different species or between raw and ready-to-eat foods",1,4,Food Not Protected From Contamination By Other Sources
+04C,"*04C - Ready-to-eat foods are subjected to cross contamination from raw foods, or cross contamination between species is likely to occur",1,4,Food Not Protected From Contamination By Other Sources
+04D,"*04D - Toxic chemicals are improperly labeled, stored, or used so that contamination of food is likely to occur",1,4,Food Not Protected From Contamination By Other Sources
+04E,"04E - Food contact equipment condition, design or location is likely to contriibute to contamination",0,4,Food Not Protected From Contamination By Other Sources
+04F,"04F - Insect, rodent, bird or vermin activity likely to result in product contamination",0,4,Food Not Protected From Contamination By Other Sources
+04G,04G - Evidence of leakage or backup in sewage lines,0,4,Food Not Protected From Contamination By Other Sources
+04H,04H - Equipment cleaning or sanitizing facilities inadequate for establishments handling potentially hazardous foods,0,4,Food Not Protected From Contamination By Other Sources
+05A,"*05A - Pork products, which my be eaten without further cooking, are not treated to kill trichina",1,5,Critical Processing Or Salvaging Parameters Are Not Met
+05B,*05B - (Refer to Specialized Inspection Guidelines),1,5,Critical Processing Or Salvaging Parameters Are Not Met
+06A,*06A - Potentially hazardous foods are not cooled by an approved method where the product temperature can be reduced to 70°F or less within two hours and 41°F (45°F) or less within an additional 4 hours,1,6,Potentially Hazardous Foods Improperly Cooled or Refrigerated
+06B,*06B - Potentially hazardous foods are not stored at safe temperatures,1,6,Potentially Hazardous Foods Improperly Cooled or Refrigerated
+07A,"*07A - Poultry, poultry stuffings, stuffed meats, or stuffings containg meat are not heated to 165°F or above",1,7,Potentially Hazardous Foods Not Adequately Cooked or Reheated
+07B,*07B - All pork or any food containing pork is not heated to 150°F or above,1,7,Potentially Hazardous Foods Not Adequately Cooked or Reheated
+07C,*07C - Other potentially hazardous foods requiring cooking are not heated to and/or held at required temperatures,1,7,Potentially Hazardous Foods Not Adequately Cooked or Reheated
+07D,*07D - Potentially hazardous foods that have been cooked and then refrigerated are not rapidly reheated to 165°F or above (whole roast beef may be reheated to adequate time/temperature requirements),1,7,Potentially Hazardous Foods Not Adequately Cooked or Reheated
+07E,*07E - Equipment used for heating or reheating potentially hazardous foods is inadequate,1,7,Potentially Hazardous Foods Not Adequately Cooked or Reheated
+08A,*08A - Potentially hazardous foods are being kept below 135°F during hot-holding (rare roast beef may be served at 130°F or above),1,8,Improper Hot-holding Procedures for Potentially Hazardous Foods
+08B,"*08B - Hot-holding equipment improperly designed, maintained, or operated to keep hot foods at 135°F or above",1,8,Improper Hot-holding Procedures for Potentially Hazardous Foods
+09A,09A - Handwashing facilities improperly installed or maintained,0,9,Improper or Inadequate Sanitary Facilities and Controls
+09B,"09B - Suitable water temperature or adequate pressure for food processing; equipment, utensil or container cleaning; or handwashing in establishments that do not handle exposed foods, not available",0,9,Improper or Inadequate Sanitary Facilities and Controls
+09C,"09C - Toilet facilities improperly installed, equipped or maintained",0,9,Improper or Inadequate Sanitary Facilities and Controls
+09D,"09D - Plumbing or sinks not properly sized, installed or maintained: equipment or florrs nor properly drained",0,9,Improper or Inadequate Sanitary Facilities and Controls
+09E,09E - Lighting or ventilation is inadequate,0,9,Improper or Inadequate Sanitary Facilities and Controls
+09F,"09F - Cleaning or sanitizing equipment, materials or agents are not available, suitable or properly stored",0,9,Improper or Inadequate Sanitary Facilities and Controls
+09G,09G - Sanitizing test devices not in use where required,0,9,Improper or Inadequate Sanitary Facilities and Controls
+09H,09H - Lack of certification of water potability or record for disinfection,0,9,Improper or Inadequate Sanitary Facilities and Controls
+10A,10A - Exterior of unsuitable construction or not in good physical repair,0,10,"Inadequate Sanitary Design, Construction, and Maintenance"
+10B,10B - Establishment has insufficient space to accommodate operations,0,10,"Inadequate Sanitary Design, Construction, and Maintenance"
+10C,"10C - Interior floors, walls, ceilings or fixture are not of suitable construction, clean or well maintained",0,10,"Inadequate Sanitary Design, Construction, and Maintenance"
+10D,"10D - Refuse containers not clean, covered, in good repair or removed at sufficient intervals",0,10,"Refuse containers not clean, covered, in good repair or removed at sufficient intervals"
+11A,"11A - Not maintaing a high degree of cleanliness or taking precautions to prevent contamination of foods from perspiration, cosmetics, chemicals or medicants, etc.",0,11,Poor Hygiene and Activities of Food Handlers
+11B,"11B - Not wearing clean outer garments, effective hair restraints or secure jewelry",0,11,Poor Hygiene and Activities of Food Handlers
+11C,"11C - Eating, drinking or use of tobacco in exposed food areas",0,11,Poor Hygiene and Activities of Food Handlers
+11D,"11D - Locker or dressing rooms are not segregated from food areas, clean or orderly",0,11,Poor Hygiene and Activities of Food Handlers
+12A,12A - Inadequate Food Storage and Protection,0,12,Inadequate Food Storage and Protection
+12B,"12B - Food or Ingredient strage containers are not clean, covered, or properly identified",0,12,Inadequate Food Storage and Protection
+12C,"12C - Bulk food displays are improperly constructed, displayed or handled",0,12,Inadequate Food Storage and Protection
+12D,12D - Street clothing or soiled linen stored unsegregated from exposed food or food-contact surfaces,0,12,Inadequate Food Storage and Protection
+12E,"12E - Food displays are improperly constructed, maintained, or supervised",0,12,Inadequate Food Storage and Protection
+12F,12F - Improper thawing procedures are utilized,0,12,Inadequate Food Storage and Protection
+13A,13A - (See Specialized Instruction Guidelines),0,13,Processing Procedures/Educational Requirements Are Not Met
+13B,13B - Other required records/certifications are not maintained,0,13,Processing Procedures/Educational Requirements Are Not Met
+13C,13C - Other coding requirements are lacking or inadequate,0,13,Processing Procedures/Educational Requirements Are Not Met
+13D,13D - Article 28 posting requirements are not met,0,13,Processing Procedures/Educational Requirements Are Not Met
+13E,13E - Consumer Advisory requirements are not met,0,13,Processing Procedures/Educational Requirements Are Not Met
+14A,14A - Evidence of rodents observed (not likely to result in product contamination),0,14,"Insect, Rodent, or Vermin Activity"
+14B,"14B - Insect, birds, or other vermin observed within the establishment (not likely to result in product contamination",0,14,"Insect, Rodent, or Vermin Activity"
+14C,14C - Evidence of pets or other domestic animals in establishment,0,14,"Insect, Rodent, or Vermin Activity"
+15A,"15A - Food contact equipment, utensils or conveyances: contact surfaces unclean or not properly sanitized",0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15B,"15B - Non-contact food equipment, utensils or conveyances are not clean or in good repair",0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15C,"15C - Food equipment improperly designed, constructed or maintained",0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15D,15D - Themometers not provided where required,0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15E,15E - Ununsed equipment or materials improperly stored or in an unclean condition,0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15F,15F - Storage cabinets or shelves are not clean or in good repair,0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15G,"15G - Packaging materials unclean, improperly stored or handled in an insanitary manner",0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+15H,"15H - Air system or transfer lines are not clean, properly constructed or in good repair",0,15,Equipment Utensils and Materials Adequately Utilized and Maintained
+16A,"16A - Chemicals or pesticides improperly labeled, stored or handled",0,16,Other Sanitation
+16B,16B - Outside premises or loading zones improperly maintained,0,16,Other Sanitation
+16C,16C - Vehicles are not clean or in good repair,0,16,Other Sanitation
+16D,16D - Morgue area or bottle return area improperly maintained,0,16,Other Sanitation
+16E,16E - Shellfish tags or records improperly maintained,0,16,Other Sanitation
